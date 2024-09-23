@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognition-System-Project
+# Season-of-AI
